@@ -76,4 +76,6 @@ f1.setVisible(true);
 class AddGui{ 
 public static void main(String ar[]){ 
                  new AddDemoGui();
-}}
+
+				 
+				 }}
