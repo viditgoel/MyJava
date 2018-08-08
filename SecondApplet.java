@@ -1,5 +1,5 @@
 import java.applet.*;
-import java.awt.*;
+import java.awt.graphic.*;
 
 /* <applet code= "SecondApplet" 
 width="600" 
